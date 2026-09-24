@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-[#090a0f] text-zinc-200 antialiased font-sans;
+  }
+
+  /* Custom subtle scrollbars */
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #0d0f17;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #272c3d;
+    border-radius: 3px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #394057;
+  }
+}
+
+.card-hover-border {
+  transition: border-color 0.15s ease, transform 0.15s ease;
+}
+.card-hover-border:hover {
+  border-color: #3b4256;
+}
