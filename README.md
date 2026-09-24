@@ -5,7 +5,8 @@
 
 ## Live Demo
 
-- **Production Deployment (Vercel):** [https://test-task-frontend-razrabotchik-vue-js-mufvayee.vercel.app](https://test-task-frontend-razrabotchik-vue-js-mufvayee.vercel.app)
+- **Production Deployment (Vercel):** [https://test-task-frontend-razrabotchik-vue.vercel.app](https://test-task-frontend-razrabotchik-vue.vercel.app)
+- **Альтернативный URL:** [https://test-task-frontend-razrabotchik-vue-js-mufvayee.vercel.app](https://test-task-frontend-razrabotchik-vue-js-mufvayee.vercel.app)
 
 ---
 
