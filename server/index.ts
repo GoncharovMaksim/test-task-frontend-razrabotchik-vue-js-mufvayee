@@ -1,6 +1,5 @@
-import { createApp } from './app'
+import { app } from '../api/index'
 
-const app = createApp()
 const PORT = process.env.PORT || 3000
 
 app.listen(PORT, () => {
